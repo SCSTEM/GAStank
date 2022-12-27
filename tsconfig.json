@@ -1,0 +1,8 @@
+{
+  "include": ["**/*"],
+  "rootDir": "./apps",
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "experimentalDecorators": true
+  }
+}
